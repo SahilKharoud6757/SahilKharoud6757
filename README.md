@@ -4,7 +4,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=SahilKharoud6757&left_color=black&right_color=blue)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=SahilKharoud6757&label=Profile%20views&color=0e75b6&style=flat" alt="SahilKharoud6757" /> 
+</p>
 
 - 🔭 I’m currently working on [Team Devscord's Projects](https://github.com/TeamDevscord)  
 
