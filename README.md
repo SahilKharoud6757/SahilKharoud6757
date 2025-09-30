@@ -30,10 +30,10 @@
 
 ---
 
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilKharoud6757&show_icons=true&theme=radical&locale=en&layout=compact" alt="SahilKharoud6757" />
 </p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SahilKharoud6757&theme=radical" alt="SahilKharoud6757" />
-</p>
+</p> -->
